@@ -51,3 +51,10 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/abhamidi" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=abhamidi-1234"
+    alt="abhamidi-1234"
+  />
+</p>
