@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 - **Softwares**:    &nbsp;&nbsp;&nbsp;         Excel, Power BI, Tableau
 
 ### Education 🎓
-- Master’s Degree in Electrical and Computer Engineering @ Carnegie Mellon University (2021 - 2023)
-- Bachelor's Degree in Electronics and Communications Engineering @ Vellore Institute of Technology (2014 - 2018)
+- **Master’s Degree** in Electrical and Computer Engineering @ **Carnegie Mellon University** (2021 - 2023)
+- **Bachelor's Degree** in Electronics and Communications Engineering @ **Vellore Institute of Technology** (2014 - 2018)
+
+### Research Publication 📜
+- [Hybrid PSO‑HSA and PSO‑GA algorithm for 3D path planning in autonomous UAVs](https://doi.org/10.1007/s42452-020-03498-0) in Springer Nature Journal on 10th October 2020
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/abhamidi-1234" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abhishek-bhamidipati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@bhamidipatiabhi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
