@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### Skills 🛠️
 - **Languages**:&nbsp;&nbsp;&nbsp;             Python, SQL, R, C++, C
 - **DS/ML/DL**:  &nbsp;&nbsp;&nbsp;            Pandas, Numpy, ScikitLearn, Matplotlib, Beautiful Soup, PyTorch, Keras, Tensorflow, NLTK, OpenCV, PySpark, OpenAI
-- **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, SAP, Git, Databricks 
-- **Softwares**:    &nbsp;&nbsp;&nbsp;         Excel, Power BI, Tableau, QlikView, Looker, Jupyter
+- **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, Git, Databricks, MySQL, Cassandra 
+- **Softwares**:    &nbsp;&nbsp;&nbsp;         Microsoft Excel, Power BI, Tableau, QlikView, Looker, Jupyter, SPSS, SAS, SAP
 
 ### Education 🎓
 - **Master’s Degree** in Electrical and Computer Engineering @ **Carnegie Mellon University** (2021 - 2023)
