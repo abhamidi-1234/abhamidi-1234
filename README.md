@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Skills 🛠️
 - **Languages**:&nbsp;&nbsp;&nbsp;             Python, SQL, R, C++, C
 - **DS/ML/DL**:  &nbsp;&nbsp;&nbsp;            Pandas, Numpy, ScikitLearn, Matplotlib, Beautiful Soup, PyTorch, Keras, Tensorflow, NLTK, OpenCV, PySpark, OpenAI
-- **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, Git, Databricks, MySQL, Cassandra 
+- **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, Git, Databricks, MySQL, Cassandra, MongoDB 
 - **Softwares**:    &nbsp;&nbsp;&nbsp;         Microsoft Excel, Power BI, Tableau, QlikView, Looker, Jupyter, SPSS, SAS, SAP
 
 ### Education 🎓
