@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - **DS/ML/DL**:  &nbsp;&nbsp;&nbsp;            Pandas, Numpy, ScikitLearn, Matplotlib, Beautiful Soup, PyTorch, Keras, Tensorflow, NLTK, OpenCV, PySpark
 - **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, Git, Databricks, MySQL, Cassandra, MongoDB 
 - **Softwares**:    &nbsp;&nbsp;&nbsp;         Microsoft Excel, Power BI, Tableau, QlikView, Looker, Jupyter, SPSS, SAS, SAP
-- **Generative AI/LLM**:    &nbsp;&nbsp;&nbsp; OpenAI, HuggingFace, Langchain, Gradio, RAG, Vector Databases, FAISS, Gemini Pro, PEFT, Google PaLM
+- **Generative AI/LLM**:    &nbsp;&nbsp;&nbsp; OpenAI, HuggingFace, Langchain, Gradio, RAG, Vector Databases, FAISS, Gemini Pro, PEFT, Google PaLM, Llama
 
 
 ### Education 🎓
