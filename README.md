@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### Skills 🛠️
-- **Languages**:&nbsp;&nbsp;&nbsp;             Python, SQL, R, C++, C, Embedded C
+- **Languages**:&nbsp;&nbsp;&nbsp;             Python, SQL, R, C++, C, Embedded C, HTML
 - **DS/ML/DL**:  &nbsp;&nbsp;&nbsp;            Pandas, Numpy, ScikitLearn, Matplotlib, Beautiful Soup, PyTorch, Keras, Tensorflow, NLTK, OpenCV, PySpark
 - **Technologies**: &nbsp;&nbsp;&nbsp;         AWS, Azure, Apache Spark, Git, Databricks, MySQL, Cassandra, MongoDB, Docker 
 - **Softwares**:    &nbsp;&nbsp;&nbsp;         Microsoft Excel, Power BI, Tableau, QlikView, Looker, Jupyter, SPSS, SAS, SAP
