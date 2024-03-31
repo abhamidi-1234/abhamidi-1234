@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?height=60&width=600&duration=2000&lines=Hi+there+👋;My+name+is+Abhishek+Bhamidipati;Data+Analyst+|+Data+Scientist;Machine+Learning+|+Data+Visualization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?height=60&width=600&duration=2000&lines=Hi+there+👋;My+name+is+Abhishek+Bhamidipati;Generative+AI+Developer;Data+Analyst+|+Data+Scientist;Machine+Learning+|+Data+Visualization)](https://git.io/typing-svg)
 
 <!--
 **abhamidi-1234/abhamidi-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
